@@ -1,0 +1,11 @@
+li {
+  margin: 10px 0;
+  width: max-content;
+  height: 30px;
+  background-color: beige;
+  text-decoration: none;
+  list-style: none;
+}
+.films {
+  padding: 0;
+}
